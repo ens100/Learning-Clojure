@@ -29,9 +29,9 @@ That being said, in the below I will include a daily post of what I learnt and w
 
 I am using this repository to track as a public record of my progress.
 
-It will be a tough journey I am sure, but hopefully will have some fun along the way. Will also use this time to learn about GitHub and how it operates.
+It will be a tough journey I am sure, but hopefully will have some fun along the way. Just learning about GitHub has been fun so far
 
-Day | Link | Comment 
+Day(s) | Link | Comment 
 ------------ | ------------- | -------------  
 0 |  | Comment
 
