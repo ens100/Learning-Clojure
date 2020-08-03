@@ -35,6 +35,6 @@ I am using this repository as as a public record to track my progress and will b
 
 Day(s) | Link | Comment 
 ------------ | ------------- | -------------  
-0 |  | Comment
+1 | Will add notes tonight | Ground up Chapters 1 + 2
 
 
