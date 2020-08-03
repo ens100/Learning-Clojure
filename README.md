@@ -10,9 +10,9 @@ I made a bit start in early July 2020 learning of the background to Clojure and 
 
 Heading | Link | Comment 
 ------------ | ------------- | -------------  
-0 | [Readings](https://github.com/ens100/learning-clojure-in-public/blob/master/post/readings.md) | A little bit of background on Clojure
-1 | [Set-Up](https://github.com/ens100/learning-clojure-in-public/blob/master/post/set_up.md) | Setting up the beast and New Project
-2 | [REPL](https://github.com/ens100/learning-clojure-in-public/blob/master/post/repl.md) | Good video describing the various functions
+0 | [Readings](https://github.com/ens100/Learning-Clojure/blob/master/post/readings.md) | A little bit of background on Clojure
+1 | [Set-Up](https://github.com/ens100/Learning-Clojure/blob/master/post/setup.md) | Setting up the beast and New Project
+2 | [REPL](https://github.com/ens100/Learning-Clojure/blob/master/post/repl.md) | Good video describing the various functions
 3 | [4Clojure](https://github.com/ens100/Learning-Clojure/blob/master/code/4clojure.md) | Set up of answers 
 
 # ClojureFam
