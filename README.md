@@ -31,7 +31,7 @@ It will be a tough journey I am sure, but hopefully will have some fun along the
 
 ## LearnInPublic
 
-I am using this repositoryas as a public record to track my progress and will be posting every day / every couple of days.
+I am using this repository as as a public record to track my progress and will be posting every day / every couple of days.
 
 Day(s) | Link | Comment 
 ------------ | ------------- | -------------  
