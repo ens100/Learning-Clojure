@@ -17,7 +17,7 @@ Heading | Link | Comment
 
 # ClojureFam
 
-To up the ante a little more, I have decided to take part in what I think is a fantastic intitative called ["ClojureFam"](https://github.com/athensresearch/ClojureFam) which has the purpose "To spread joy and create wealth by increasing the number of Clojure developers and strengthening relationships within the global Clojure community". Looks great and very thankful I have this opportunity.
+To up the ante a little more, I have decided to take part in what I think is a fantastic intitative called ["ClojureFam"](https://github.com/athensresearch/ClojureFam) which has the purpose "To spread joy and create wealth by increasing the number of Clojure developers and strengthening relationships within the global Clojure community". Looks great and very thankful I have this opportunity and to the people who set it up [Jeff Tang](https://github.com/tangjeff0) and [nthd3gr33](https://github.com/nthd3gr33), amongst the many others
 
 ## What Does it  Involve?
 - Spending the next 5 weeks learning about Clojure on a daily basis.
@@ -27,9 +27,11 @@ To up the ante a little more, I have decided to take part in what I think is a f
 
 That being said, in the below I will include a daily post of what I learnt and what I did to learn it and for the next 5 weeks (and many many more weeks after that) I will be learning Clojure from the various means available. 
 
-I am using this repository to track as a public record of my progress.
-
 It will be a tough journey I am sure, but hopefully will have some fun along the way. Just learning about GitHub has been fun so far
+
+## LearnInPublic
+
+I am using this repositoryas as a public record to track my progress and will be posting every day / every couple of days.
 
 Day(s) | Link | Comment 
 ------------ | ------------- | -------------  
