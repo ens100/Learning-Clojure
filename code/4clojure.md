@@ -72,11 +72,6 @@ true - although `(not false)` also seems to work, interesting.
 3 - returns the value of the specified position
 ```
 
- ## 13.  Intro to Sequences
-
-```clojure
-3 - returns the value of the specified position
-```
 
 ## 13. Sequences: rest
 ```clojure
