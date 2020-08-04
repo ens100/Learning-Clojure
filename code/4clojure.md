@@ -66,3 +66,34 @@ true - although `(not false)` also seems to work, interesting.
 [:b 2] - interestingly {:b 2} also works
 ```
  
+ ## 12.  Intro to Sequences
+
+```clojure
+3 - returns the value of the specified position
+```
+
+ ## 13.  Intro to Sequences
+
+```clojure
+3 - returns the value of the specified position
+```
+
+## 13. Sequences: rest
+```clojure
+[20 30 40] - returns the sequence from the 1st item
+```
+
+## 14. Sequences: rest
+```clojure
+[20 30 40] - returns the sequence from the 1st item. Also '(20 30 40) is ok as this is interchangeable
+```
+
+## 15. Intro to Functions
+```clojure
+8 - wow so many differnt ways to get the same answer
+```
+
+## 16. Double Down
+```clojure
+
+```
