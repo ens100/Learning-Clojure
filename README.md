@@ -35,6 +35,7 @@ I am using this repository as as a public record to track my progress and will b
 
 Day(s) | Link | Comment 
 ------------ | ------------- | -------------  
-1 | Will add notes tonight | Ground up Chapters 1 + 2
+1 | [2020-08-03](https://github.com/ens100/Learning-Clojure/blob/master/post/2020-08-03.md) | Ground up Chapters 1 + 2
+2 | [2020-08-04] | Ground up Chapter3 and 4Clojure
 
 
