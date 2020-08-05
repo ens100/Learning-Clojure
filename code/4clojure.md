@@ -75,20 +75,36 @@ true - although `(not false)` also seems to work, interesting.
 
 ## 13. Sequences: rest
 ```clojure
-[20 30 40] - returns the sequence from the 1st item
-```
-
-## 14. Sequences: rest
-```clojure
 [20 30 40] - returns the sequence from the 1st item. Also '(20 30 40) is ok as this is interchangeable
 ```
 
-## 15. Intro to Functions
+## 14. Intro to Functions
 ```clojure
 8 - wow so many differnt ways to get the same answer
 ```
 
-## 16. Double Down
+## 15. Double Down
+```clojure
+(fn [x] (* x 2))
+```
+
+
+## 16. Hello World
+```clojure
+(fn [x] (str "Hello, " x "!"))
+```
+
+## 17. Sequences: map
+```clojure
+[6 7 8]
+```
+
+## 18. Sequences: filter
+```clojure
+'(6 7)
+```
+
+## 19. Last Element!
 ```clojure
 
 ```
