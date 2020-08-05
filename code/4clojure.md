@@ -109,7 +109,17 @@ true - although `(not false)` also seems to work, interesting.
 (fn [x] (nth x (- (count x) 1)))
 ```
 
-## 20 . Penultimate Element
+## 20. Penultimate Element
 ```clojure
 (fn [x] (nth x (- (count x) 2)))
 ```
+
+## 21. nth Element
+```clojure
+#(first (drop %2 %1))
+```
+## 22. Count a Sequence
+```clojure
+
+```
+
