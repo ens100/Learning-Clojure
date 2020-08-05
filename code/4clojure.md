@@ -104,7 +104,12 @@ true - although `(not false)` also seems to work, interesting.
 '(6 7)
 ```
 
-## 19. Last Element!
+## 19. Last Element
 ```clojure
+(fn [x] (nth x (- (count x) 1)))
+```
 
+## 20 . Penultimate Element
+```clojure
+(fn [x] (nth x (- (count x) 2)))
 ```
