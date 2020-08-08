@@ -39,5 +39,5 @@ Day(s) | Link | Comment
 2 | [2020-08-04](https://github.com/ens100/Learning-Clojure/blob/master/post/2020-08-04.md) | Ground up Chapter 3 and 4Clojure
 3 | [2020-08-05](https://github.com/ens100/Learning-Clojure/blob/master/post/2020-08-05.md) | Brave and True Chapter 3 (part 1) and 4Clojure
 4 | [2020-08-06](https://github.com/ens100/Learning-Clojure/blob/master/post/2020-08-06.md) | Ground up Chapter 4
-
+5 | [2020-08-07](https://github.com/ens100/Learning-Clojure/blob/master/code/GroundUp.md) | Problems on Ground up Chapter 4
 
