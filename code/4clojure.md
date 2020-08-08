@@ -120,6 +120,37 @@ true - although `(not false)` also seems to work, interesting.
 ```
 ## 22. Count a Sequence
 ```clojure
+(fn cnt [lst]
+    (if (= lst nil)
+        0
+        (inc (cnt (next lst)))))
+```
+## 23. Reverse a Sequence
+```clojure
+#(reduce conj () %)
+```
+## 24. Sum It All Up
+```clojure
+#(reduce + %)
+```
+## 25. Find the odd numbers
+```clojure
+#(filter odd? %)
+```
+## 26. Fibonacci Sequence
+```clojure
 
 ```
 
+## 27. Palindrome Detector
+```clojure
+(fn [word]
+  (if (string? word)
+    (= (apply str (reverse word) word))
+  	(= (reverse word) word)))
+```
+
+## 27. Flatten a Sequence
+```clojure
+
+```
