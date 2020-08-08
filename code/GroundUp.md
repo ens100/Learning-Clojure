@@ -25,7 +25,13 @@ To just find the "c"
 
 This basically splits abracadabra into each letter and then frequency just counts c
 
-### 3. Write your own version of filter.
-
-
 ### 4. Find the first 100 prime numbers: 2, 3, 5, 7, 11, 13, 17, 
+
+```Clojure
+(defn divisible? [x y] (= (rem x y) 0))
+(defn prime? [n]
+  (not-any? #(divisible? n %) (range 2 n)))
+(take 100 (filter prime? (iterate inc 2) ))
+```
+
+I was really stumped on this one so looked for a solution and worked through it step by step to understand what was happening.
