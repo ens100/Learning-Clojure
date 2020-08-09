@@ -1,7 +1,7 @@
 # Learning Clojure
 
 <p align="center">
-<img src="https://github.com/ens100/learning-clojure-in-public/blob/master/code/Clojure_logo.svg">
+<img src="https://github.com/alaq/learning-clojure-in-public/blob/master/posts/images/Clojure_logo.svg">
 </p>
   
 Hi, I am Ed. In my day to day life I work as an accountant and in order to add a little spice I thought it would be a good idea to learn Clojure in my spare time. I am interested in Machine Learning and Big Data as well as being a little bit addicted to the various PKM apps out there. Want to learn Clojure as an introduction to the programming world.
