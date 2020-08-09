@@ -1,6 +1,6 @@
 # 4Clojure
 
-## 1. Nothing but the Truth
+## 1. Nothing but the Truth 
 
 ```clojure
 true - although `(not false)` also seems to work, interesting.
@@ -150,7 +150,9 @@ true - although `(not false)` also seems to work, interesting.
   	(= (reverse word) word)))
 ```
 
-## 27. Flatten a Sequence
+## 29. Get the Caps
 ```clojure
-
+(fn [uppercase]
+  (apply str (filter #(Character/isUpperCase %) uppercase)))
 ```
+
