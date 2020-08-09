@@ -42,4 +42,6 @@ Day(s) | Link | Comment
 4 | [2020-08-06](https://github.com/ens100/Learning-Clojure/blob/master/post/2020-08-06.md) | Ground up Chapter 4
 5 | [2020-08-07](https://github.com/ens100/Learning-Clojure/blob/master/code/GroundUp.md) | Problems on Ground up Chapter 4
 6 | [2020-08-08](https://github.com/ens100/Learning-Clojure/blob/master/post/2020-08-08.md) | Ground up Chapter 6
+7 | [2020-08-09](https://github.com/ens100/Learning-Clojure/blob/master/post/2020-08-09.md) | Refresh + Ground up Chapter 7
+
 
