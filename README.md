@@ -14,6 +14,7 @@ Heading | Link | Comment
 1 | [Set-Up](https://github.com/ens100/Learning-Clojure/blob/master/post/setup.md) | Setting up the beast and New Project
 2 | [REPL](https://github.com/ens100/Learning-Clojure/blob/master/post/repl.md) | Good video describing the various functions
 3 | [4Clojure](https://github.com/ens100/Learning-Clojure/blob/master/code/4clojure.md) | Set up of answers 
+4 | [Ground Up](https://github.com/ens100/Learning-Clojure/blob/master/code/GroundUp.md) | Set up of answers 
 
 # ClojureFam
 
