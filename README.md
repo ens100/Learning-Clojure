@@ -44,5 +44,6 @@ Day(s) | Link | Comment
 6 | [2020-08-08](https://github.com/ens100/Learning-Clojure/blob/master/post/2020-08-08.md) | Ground up Chapter 6
 7 | [2020-08-09](https://github.com/ens100/Learning-Clojure/blob/master/post/2020-08-09.md) | Refresh + Ground up Chapter 7
 8 | [2020-08-10](https://github.com/ens100/Learning-Clojure/blob/master/post/2020-08-10.md) | Brave and True Chapter 4
+9 | [2020-08-11](https://github.com/ens100/Learning-Clojure/blob/master/post/2020-08-11.md) | Web App Testing
 
 
