@@ -46,5 +46,6 @@ Day(s) | Link | Comment
 8 | [2020-08-10](https://github.com/ens100/Learning-Clojure/blob/master/post/2020-08-10.md) | Brave and True Chapter 4
 9 | [2020-08-11](https://github.com/ens100/Learning-Clojure/blob/master/post/2020-08-11.md) | Web App Testing
 10 | [2020-08-12](https://github.com/ens100/Learning-Clojure/blob/master/post/2020-08-12.md) | Further Web App Testing
-11 | [2020-08-13](https://github.com/ens100/Learning-Clojure/blob/master/post/2020-08-13.md) | Forming a Bakery
+11 | [2020-08-13](https://github.com/ens100/Learning-Clojure/blob/master/post/2020-08-13.md) | Forming a Bakery Day 1
+12 | [2020-08-14](https://github.com/ens100/Learning-Clojure/blob/master/post/2020-08-14.md) | Forming a Bakery Day 2
 
