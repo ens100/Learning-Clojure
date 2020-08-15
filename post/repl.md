@@ -10,3 +10,10 @@ Today managed to:
 - Understand that you can do ```Def``` followed by ```fn``` or use the shortcut ```Defn```
 
 Feel quite content with my progress.
+
+Discovered a few more tweaks / tips which I think are useful to know:
+- Alt-Shift-P - will evaluate the top-level form your cursor is on in the REPL
+- Alt-Shift-L - will load the file you are in, into the REPL
+- Alt-Shift-M - will load all modified files into your REPL
+- Alt-Shift-R - will change the REPL namespace to the one of the file you are in
+- File -> Settings -> Keymap and search for Send form before caret to REPL and add the keyboard shortcut Ctrl+Enter for it. That way, when your cursor (caret) is at the end of any s-expr and evaluate the s-expr into the REPL by pressing: Ctrl+Enter.
