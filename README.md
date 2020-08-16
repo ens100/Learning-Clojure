@@ -4,7 +4,7 @@
 <img src="https://github.com/alaq/learning-clojure-in-public/blob/master/posts/images/Clojure_logo.svg">
 </p>
   
-Hi, I am Ed. In my day to day life I work as an accountant and in order to add a little spice I thought it would be a good idea to learn Clojure in my spare time. I am interested in Machine Learning and Big Data as well as being a little bit addicted to the various PKM apps out there. Want to learn Clojure as an introduction to the programming world.
+Hi, I am Ed. In my day to day life I work as an accountant and in order to add a little spice I thought it would be a good idea to learn Clojure in my spare time. I am interested in Machine Learning and Big Data as well as being a little addicted to the various PKM apps out there. Want to learn Clojure as an introduction to the programming world.
 
 I made a bit start in early July 2020 learning of the background to Clojure and getting it set up:
 
@@ -18,21 +18,21 @@ Heading | Link | Comment
 
 # ClojureFam
 
-To up the ante a little more, I have decided to take part in what I think is a fantastic intitative called ["ClojureFam"](https://github.com/athensresearch/ClojureFam) which has the purpose "To spread joy and create wealth by increasing the number of Clojure developers and strengthening relationships within the global Clojure community". Looks great and very thankful I have this opportunity and to the people who set it up [Jeff Tang](https://github.com/tangjeff0) and [nthd3gr33](https://github.com/nthd3gr33), amongst the many others
+To up the ante a little more, I have decided to take part in what I think is a fantastic initiative called ["ClojureFam"](https://github.com/athensresearch/ClojureFam) which has the purpose "To spread joy and create wealth by increasing the number of Clojure developers and strengthening relationships within the global Clojure community". Looks great and very thankful I have this opportunity and to the people who set it up [Jeff Tang](https://github.com/tangjeff0) and [nthd3gr33](https://github.com/nthd3gr33), amongst the many others.
 
 ## What Does it  Involve?
 - Spending the next 5 weeks learning about Clojure on a daily basis.
-- Being  part of a Cohort so that we can all learn together and discuss issues / problems
-- Keep myself accountable and motivated. It is so easy to skip a day and then lose track
+- Being  part of a Cohort so that we can all learn together and discuss issues / problems.
+- Keep myself accountable and motivated. It is so easy to skip a day and then lose track.
 - Learn and be efficient in a new language.
 
 That being said, in the below I will include a daily post of what I learnt and what I did to learn it and for the next 5 weeks (and many many more weeks after that) I will be learning Clojure from the various means available. 
 
-It will be a tough journey I am sure, but hopefully will have some fun along the way. Just learning about GitHub has been fun so far
+It will be a tough journey I am sure, but hopefully will have some fun along the way. Just learning about GitHub has been fun so far.
 
 ## LearnInPublic
 
-I am using this repository as as a public record to track my progress and will be posting every day / every couple of days.
+I am using this repository as a public record to track my progress and will be posting every day / every couple of days.
 
 Day(s) | Link | Comment 
 ------------ | ------------- | -------------  
@@ -48,4 +48,5 @@ Day(s) | Link | Comment
 10 | [2020-08-12](https://github.com/ens100/Learning-Clojure/blob/master/post/2020-08-12.md) | Further Web App Testing
 11 | [2020-08-13](https://github.com/ens100/Learning-Clojure/blob/master/post/2020-08-13.md) | Forming a Bakery Day 1
 12 | [2020-08-14](https://github.com/ens100/Learning-Clojure/blob/master/post/2020-08-14.md) | Forming a Bakery Day 2
+13 | [2020-08-15](https://github.com/ens100/Learning-Clojure/blob/master/post/2020-08-15.md) | More learning
 
