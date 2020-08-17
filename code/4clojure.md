@@ -156,3 +156,42 @@ true - although `(not false)` also seems to work, interesting.
   (apply str (filter #(Character/isUpperCase %) uppercase)))
 ```
 
+## 36. Let it Be
+```clojure
+[x 7 y 3 z 1]
+```
+
+## 37. Regular Expressions
+```clojure
+"ABC"
+```
+
+## 52. Intro to Destructuring
+```clojure
+[c e]
+```
+
+## 57. Simple Recursion
+```clojure
+'(5 4 3 2 1)
+```
+
+## 64. Intro to Reduce
+```clojure
++
+```
+
+## 64. Recurring Theme
+```clojure
+'(7 6 5 4 3)
+```
+
+## 71. Rearranging Code: ->
+```clojure
+count
+```
+
+## 72. Rearranging Code: ->>
+```clojure
+reduce +
+```
