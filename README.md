@@ -50,4 +50,5 @@ Day(s) | Link | Comment
 12 | [2020-08-14](https://github.com/ens100/Learning-Clojure/blob/master/post/2020-08-14.md) | Forming a Bakery Day 2
 13 | [2020-08-15](https://github.com/ens100/Learning-Clojure/blob/master/post/2020-08-15.md) | Refactoring
 14 | [2020-08-16](https://github.com/ens100/Learning-Clojure/blob/master/post/2020-08-16.md) | More Clojure Functions
+15 | [2020-08-17](https://github.com/ens100/Learning-Clojure/blob/master/post/2020-08-17.md) | Code Review
 
