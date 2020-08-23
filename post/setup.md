@@ -41,3 +41,5 @@ Open Intellij
 5. Press play and the REPL should show up on the side
 
 Very good so far, we have Clojure installed and managed to get it up and running. High Five!
+
+Added keybindings `ctrl+enter` to `Send Form Before Caret to REPL`
