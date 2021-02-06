@@ -11,7 +11,7 @@ Here are the steps I carried out:
 1. Download and install "Java SE Runtime Environment 8u251" from (https://oraclemirror.np.gy/jre8/)
 2. Download IntelliJ from https://www.jetbrains.com/idea/download/#section=windows
 3. Run PowerShell and type "java -version" to see that it has installed and you have the latest versions - **maybe this should have been step 1 - oh well, I like living on the edge**
-4. Install from Chocolatey `(Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1')))`
+4. Install from Chocolatey `Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))`
 5. Run the Leiningen installation using Chocolatey: `choco install lein`
 
 	2. There may be a few prompts to which i selected Y or A
