@@ -1,6 +1,6 @@
 # Set Up
 
-So, I was under the impression that the first step to get any program running is to install something, sounds easy right, how wrong I was.  I have a tiny (maybe minuscule is better) bit of experience in Phyton so had a little bit of an idea of what to expect but I was not prepared mentally for what was coming up - things are a little trickier here.
+So, I was under the impression that the first step to get any program running is to install something, sounds easy right, how wrong I was.  I have a tiny (maybe minuscule is better) bit of experience in Python so had a little bit of an idea of what to expect but I was not prepared mentally for what was coming up - things are a little trickier here.
 
 From having to sign up to GitHub and learn about what it is (optional) and then having to find and download different JDK / J SE files,  to doing something with Leiningen followed by some chocolate (mmmm chocolate) - I was all over the place and feeling a little overwhelmed with information overload. 
 
